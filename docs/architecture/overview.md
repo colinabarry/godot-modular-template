@@ -200,4 +200,4 @@ A **highly modular, moddable, and reusable Godot foundation**:
 
 ## AI Notice
 
-If you're reading this, I didn't rewrite this overview myself yet, which is why it is the way that it is. The above content is subject to scrutiny and must be tested with real projects and refined before it should be considered ***Not Slop™️***. 
+If you're reading this, I didn't rewrite this overview myself yet, which is why it is the way that it is. The above content is subject to scrutiny and must be tested with real projects and refined before it should be considered ***Not Slop™️***.
