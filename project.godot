@@ -14,7 +14,7 @@ compatibility/default_parent_skeleton_in_mesh_instance_3d=true
 
 [application]
 
-config/name="Core/Content Template 4.5"
+config/name="Core/Content Template 4.7"
 config/features=PackedStringArray("4.7", "Forward Plus")
 config/icon="res://_shared/2d-assets/sprites/icon.svg"
 
